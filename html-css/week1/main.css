@@ -1,0 +1,117 @@
+body{
+    line-height: 1.6;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    background-color:rgb(62, 64, 66);
+    margin: 0;
+}
+
+nav {
+    height: 150px;
+    text-align: center;
+    background-color: white;
+   
+    
+}
+
+section {
+    width: 100%;
+}
+#side-bar {
+    width: 33%;
+    float:left; 
+    color: white;
+
+}
+
+#middle-bar {
+    width: 67%;
+    float:left;  
+    background-color: white;
+    
+     
+}
+#middle-bar h3 {
+    border: none;
+}
+
+ul {
+    list-style-type: none;  
+}
+p {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+}
+
+li {
+ list-style-type: none;
+
+}
+
+h3 {
+    color: rgb(141, 49, 106);
+    text-align: center;
+    border-top: solid rgb(224, 221, 221) .1px;
+    padding-top: 20px;
+}
+
+h5 {
+    color:rgb(141, 49, 106);
+    text-align: right;
+    padding-right: 8px;
+    font-weight: 100;
+    font-size:22px;
+    text-transform: underline;
+}
+.flags {
+    width: 100px;
+    border: none;
+    border-radius: 23%;
+    float: left;
+    padding: 10px; 
+
+}
+img {
+    width: 100%;
+ 
+
+}
+header {
+    font-size: 30px;
+    font-weight: 100;
+    padding: 20px;
+
+}
+a {
+    color:rgb(62, 64, 66);
+}
+nav a {
+    color: rgb(141, 49, 106);
+    padding: 50px;
+    border-right: rgb(170, 166, 166) solid .1px;
+
+}
+#Contact-info{
+    line-height:2;
+}
+#middle-bar .title {
+    color: rgb(141, 49, 106);
+}
+#middle-bar .work-place {
+    color: rgb(141, 49, 106);
+    text-align:right;
+}
+.experience {
+    background-color: white;
+    padding-left: 10px;
+    font-size: 18px;
+}
+.education {
+    padding-left: 10px;
+    font-size: 18px; 
+}
+.education span {
+    color: rgb(224, 101, 183);
+
+}
